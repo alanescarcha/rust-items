@@ -7,6 +7,9 @@
 |[3module car](/3module car.png)|-831725027|3 Module Car|Misc|
 |[4module car chassis](/4module car chassis.png)|385099196|4 Module Car Chassis|Misc|
 |[4module car](/4module car.png)|-935322684|4 Module Car|Misc|
+|[50cal.mounted](/50cal.mounted.png)|162882477|#50cal|Weapon|
+|[50cal.mounted.left](/50cal.mounted.left.png)|-1467876094|#50cal|Weapon|
+|[50cal.mounted.right](/50cal.mounted.right.png)|1248383659|#50cal|Weapon|
 |[abovegroundpool](/abovegroundpool.png)|1840570710|Above Ground Pool|Fun|
 |[abyss.barrel.horizontal](/abyss.barrel.horizontal.png)|-880494890|Abyss Horizontal Storage Tank|Items|
 |[abyss.barrel.vertical](/abyss.barrel.vertical.png)|-919882824|Abyss Vertical Storage Tank|Items|
@@ -21,6 +24,7 @@
 |[ammo.grenadelauncher.smoke](/ammo.grenadelauncher.smoke.png)|915408809|40mm Smoke Grenade|Ammunition|
 |[ammo.handmade.shell](/ammo.handmade.shell.png)|588596902|Handmade Shell|Ammunition|
 |[ammo.nailgun.nails](/ammo.nailgun.nails.png)|-2097376851|Nailgun Nails|Ammunition|
+|[ammo.paintball](/ammo.paintball.png)|385645417|Paintball|Ammunition|
 |[ammo.pistol.fire](/ammo.pistol.fire.png)|51984655|Incendiary Pistol Bullet|Ammunition|
 |[ammo.pistol.hv](/ammo.pistol.hv.png)|-1691396643|HV Pistol Ammo|Ammunition|
 |[ammo.pistol](/ammo.pistol.png)|785728077|Pistol Bullet|Ammunition|
@@ -39,6 +43,7 @@
 |[ammo.shotgun](/ammo.shotgun.png)|-1685290200|12 Gauge Buckshot|Ammunition|
 |[ammo.shotgun.slug](/ammo.shotgun.slug.png)|-727717969|12 Gauge Slug|Ammunition|
 |[ammo.snowballgun](/ammo.snowballgun.png)|550753330|Snowball Gun Ammo|Ammunition|
+|[anchor](/anchor.png)|829641693|Anchor|Items|
 |[antiradpills](/antiradpills.png)|-1432674913|Anti-Radiation Pills|Medical|
 |[apple](/apple.png)|1548091822|Apple|Food|
 |[apple.spoiled](/apple.spoiled.png)|352130972|Rotten Apple|Food|
@@ -115,6 +120,8 @@
 |[blueidtag](/blueidtag.png)|1364514421|Blue ID Tag|Resources|
 |[blueprintbase](/blueprintbase.png)|-996920608|Blueprint|Misc|
 |[blunderbuss](/blunderbuss.png)|-880412831|Blunderbuss|Weapon|
+|[boat.planner](/boat.planner.png)|-321247698|Boat Building Plan|Construction|
+|[boatbuildingstation](/boatbuildingstation.png)|1993693904|Boat Building Station|Items|
 |[bone.armor.suit](/bone.armor.suit.png)|1746956556|Bone Armor|Attire|
 |[bone.club](/bone.club.png)|1711033574|Bone Club|Weapon|
 |[bone.fragments](/bone.fragments.png)|1719978075|Bone Fragments|Resources|
@@ -149,6 +156,8 @@
 |[can.tuna](/can.tuna.png)|-1941646328|Can of Tuna|Food|
 |[candycane](/candycane.png)|1121925526|Candy Cane|Food|
 |[candycaneclub](/candycaneclub.png)|1789825282|Candy Cane Club|Weapon|
+|[cannon](/cannon.png)|-34498533|Cannon|Items|
+|[cannonball](/cannonball.png)|-411735114|Cannonball|Ammunition|
 |[captainslog](/captainslog.png)|1230691307|Captain's Log|Misc|
 |[carburetor1](/carburetor1.png)|656371028|Low Quality Carburetor|Component|
 |[carburetor2](/carburetor2.png)|656371027|Medium Quality Carburetor|Component|
@@ -209,6 +218,7 @@
 |[cocoknight.armor.helmet](/cocoknight.armor.helmet.png)|-582467439|Coconut Armor Helmet|Attire|
 |[cocoknight.armor.pants](/cocoknight.armor.pants.png)|507284030|Coconut Armor Pants|Attire|
 |[cocoknight.armor.torso](/cocoknight.armor.torso.png)|1426097945|Coconut Armor Chestplate|Attire|
+|[coconut](/coconut.png)|-24571537|Coconut|Food|
 |[coffeecan.helmet](/coffeecan.helmet.png)|-803263829|Coffee Can Helmet|Attire|
 |[coffin.storage](/coffin.storage.png)|573676040|Coffin|Misc|
 |[command.block](/command.block.png)|-1247485104|Command Block|Electrical|
@@ -256,6 +266,7 @@
 |[divertorch](/divertorch.png)|1846605708|Abyss Torch|Tool|
 |[diving.fins](/diving.fins.png)|296519935|Diving Fins|Attire|
 |[diving.mask](/diving.mask.png)|-113413047|Diving Mask|Attire|
+|[diving.tank.double](/diving.tank.double.png)|-1559420426|Double Diving Tank|Attire|
 |[diving.tank](/diving.tank.png)|-2022172587|Diving Tank|Attire|
 |[diving.wetsuit](/diving.wetsuit.png)|-1101924344|Wetsuit|Attire|
 |[documents](/documents.png)|-451310088|Documents|Tool|
@@ -265,6 +276,7 @@
 |[door.double.hinged.metal](/door.double.hinged.metal.png)|1390353317|Sheet Metal Double Door|Construction|
 |[door.double.hinged.toptier](/door.double.hinged.toptier.png)|1221063409|Armored Double Door|Construction|
 |[door.double.hinged.wood](/door.double.hinged.wood.png)|-1336109173|Wood Double Door|Construction|
+|[door.hinged.boat.wood](/door.hinged.boat.wood.png)|-1063073030|Wooden Boat Door|Construction|
 |[door.hinged.industrial.a](/door.hinged.industrial.a.png)|818733919|Industrial Door|Construction|
 |[door.hinged.metal](/door.hinged.metal.png)|-2067472972|Sheet Metal Door|Construction|
 |[door.hinged.toptier](/door.hinged.toptier.png)|1353298668|Armored Door|Construction|
@@ -277,6 +289,7 @@
 |[dropbox](/dropbox.png)|-1519126340|Drop Box|Items|
 |[drumkit](/drumkit.png)|-1330640246|Junkyard Drum Kit|Fun|
 |[ducttape](/ducttape.png)|1401987718|Duct Tape|Component|
+|[easel](/easel.png)|-1779203452|Portable Easel|Items|
 |[easter.bronzeegg](/easter.bronzeegg.png)|844440409|Bronze Egg|Misc|
 |[easter.goldegg](/easter.goldegg.png)|-1002156085|Gold Egg|Misc|
 |[easter.paintedeggs](/easter.paintedeggs.png)|-126305173|Painted Egg|Misc|
@@ -425,10 +438,12 @@
 |[gingerbreadsuit](/gingerbreadsuit.png)|-558880549|Gingerbread Suit|Attire|
 |[gloweyes](/gloweyes.png)|-690276911|Glowing Eyes|Attire|
 |[glue](/glue.png)|-1899491405|Glue|Component|
-|[goldframe.large](/goldframe.large.png)|-996235148|Gold Frame large|Items|
-|[goldframe.medium](/goldframe.medium.png)|-1901993050|Gold Frame Medium|Items|
-|[goldframe.small](/goldframe.small.png)|-1836526520|Gold Frame Small|Items|
-|[goldframe.standing](/goldframe.standing.png)|-1528767189|Gold Frame Standing|Items|
+|[goldframe.large](/goldframe.large.png)|-996235148|Ornate Frame large|Items|
+|[goldframe.medium](/goldframe.medium.png)|-1901993050|Ornate Frame Medium|Items|
+|[goldframe.small](/goldframe.small.png)|-1836526520|Ornate Frame Small|Items|
+|[goldframe.standing](/goldframe.standing.png)|-1528767189|Ornate Frame Standing|Items|
+|[goldframe.xl](/goldframe.xl.png)|-1430299277|Ornate Frame XL|Items|
+|[goldframe.xxl](/goldframe.xxl.png)|-1322332389|Ornate Frame XXL|Items|
 |[goldmirror.large](/goldmirror.large.png)|1365234594|Gold Mirror large|Items|
 |[goldmirror.medium](/goldmirror.medium.png)|-1804515496|Gold Mirror Medium|Items|
 |[goldmirror.small](/goldmirror.small.png)|-1444650226|Gold Mirror Small|Items|
@@ -477,6 +492,7 @@
 |[hat.cap](/hat.cap.png)|-1022661119|Baseball Cap|Attire|
 |[hat.dragonmask](/hat.dragonmask.png)|-22883916|Dragon Mask|Attire|
 |[hat.gas.mask](/hat.gas.mask.png)|1659114910|Gas Mask|Attire|
+|[hat.horsemask](/hat.horsemask.png)|-418359052|Horse Mask|Attire|
 |[hat.miner](/hat.miner.png)|-1539025626|Miners Hat|Attire|
 |[hat.oxmask](/hat.oxmask.png)|1315082560|Ox Mask|Attire|
 |[hat.rabbitmask](/hat.rabbitmask.png)|-986782031|Rabbit Mask|Attire|
@@ -499,6 +515,7 @@
 |[hazmatsuit.spacesuit](/hazmatsuit.spacesuit.png)|-560304835|Space Suit|Attire|
 |[hazmatsuit_scientist](/hazmatsuit_scientist.png)|-253079493|Scientist Suit|Attire|
 |[hazmatsuit_scientist_arctic](/hazmatsuit_scientist_arctic.png)|1107575710|Arctic Scientist Suit|Attire|
+|[hazmatsuit_scientist_naval](/hazmatsuit_scientist_naval.png)|-1937799374|Naval Scientist Suit|Attire|
 |[hazmatsuit_scientist_nvgm](/hazmatsuit_scientist_nvgm.png)|86840834|NVGM Scientist Suit|Attire|
 |[hazmatsuit_scientist_peacekeeper](/hazmatsuit_scientist_peacekeeper.png)|-1958316066|Scientist Suit|Attire|
 |[hazmatsuittwitch](/hazmatsuittwitch.png)|468313189|Twitch Rivals Hazmat Suit|Attire|
@@ -511,7 +528,7 @@
 |[heavy.plate.helmet](/heavy.plate.helmet.png)|1181207482|Heavy Plate Helmet|Attire|
 |[heavy.plate.jacket](/heavy.plate.jacket.png)|-1102429027|Heavy Plate Jacket|Attire|
 |[heavy.plate.pants](/heavy.plate.pants.png)|-1778159885|Heavy Plate Pants|Attire|
-|[heavy.scientist.plushie](/heavy.scientist.plushie.png)|146221721|#heavy.scientist.plushie.name|Items|
+|[heavy.scientist.plushie](/heavy.scientist.plushie.png)|146221721|Heavy Scientist Plushie|Items|
 |[heavyscientistyoutooz](/heavyscientistyoutooz.png)|-722629980|Heavy Scientist Youtooz|Items|
 |[hitchtroughcombo](/hitchtroughcombo.png)|1160881421|Hitch & Trough|Items|
 |[hmlmg](/hmlmg.png)|-1214542497|HMLMG|Weapon|
@@ -521,6 +538,7 @@
 |[honeycomb](/honeycomb.png)|-1513203236|Honeycomb|Food|
 |[hoodie](/hoodie.png)|1751045826|Hoodie|Attire|
 |[hopper](/hopper.png)|1428574144|Hopper|Electrical|
+|[horse.armor.lny26](/horse.armor.lny26.png)|-2068194497|Lunar New Year Horse Armor|Attire|
 |[horse.armor.roadsign](/horse.armor.roadsign.png)|60528587|Roadsign Horse Armor|Attire|
 |[horse.armor.wood](/horse.armor.wood.png)|1659447559|Wooden Horse Armor|Attire|
 |[horse.costume](/horse.costume.png)|1420547167|Horse Costume|Attire|
@@ -585,6 +603,7 @@
 |[krieg.storage.horizontal](/krieg.storage.horizontal.png)|652793345|Krieg Storage Crates|Items|
 |[krieg.storage.vertical](/krieg.storage.vertical.png)|1305765685|Krieg Storage Barrel|Items|
 |[kriegbackpack](/kriegbackpack.png)|-874650016|Krieg Large Backpack|Attire|
+|[ladder.wooden.boat](/ladder.wooden.boat.png)|255305250|Wooden Boat Ladder|Construction|
 |[ladder.wooden.wall](/ladder.wooden.wall.png)|-316250604|Wooden Ladder|Construction|
 |[lantern](/lantern.png)|1658229558|Lantern|Items|
 |[largebackpack](/largebackpack.png)|-907422733|Large Backpack|Attire|
@@ -599,6 +618,8 @@
 |[legacy.shelter.wood](/legacy.shelter.wood.png)|607400343|Legacy Wood Shelter|Construction|
 |[legacyfurnace](/legacyfurnace.png)|-1310391395|Legacy Furnace|Items|
 |[lightup.large](/lightup.large.png)|242421166|Light-Up Frame Large|Items|
+|[lightup.xl](/lightup.xl.png)|1801656689|Light-Up Frame XL|Items|
+|[lightup.xxl](/lightup.xxl.png)|1447138977|Light-Up Frame XXL|Items|
 |[lightupframe.medium](/lightupframe.medium.png)|-1294739579|Light-Up Frame Medium|Items|
 |[lightupframe.small](/lightupframe.small.png)|1691223771|Light-Up Frame Small|Items|
 |[lightupframe.standing](/lightupframe.standing.png)|1950013766|Light-Up Frame Standing|Items|
@@ -670,6 +691,7 @@
 |[motorbike_sidecar](/motorbike_sidecar.png)|1869224826|Motorbike With Sidecar|Misc|
 |[movembermoustache](/movembermoustache.png)|-2047081330|Movember Moustache|Attire|
 |[movembermoustachecard](/movembermoustachecard.png)|3380160|Card Movember Moustache|Attire|
+|[mrspice.can](/mrspice.can.png)|-648077743|Mr Spice Can|Food|
 |[multiplegrenadelauncher](/multiplegrenadelauncher.png)|-1123473824|Multiple Grenade Launcher|Weapon|
 |[mummymask](/mummymask.png)|809689733|Mummy Mask|Attire|
 |[mushroom](/mushroom.png)|-1962971928|Mushroom|Food|
@@ -687,6 +709,9 @@
 |[outbreak.sprayer](/outbreak.sprayer.png)|1621942085|Outbreak Sprayer|Tool|
 |[paddle](/paddle.png)|1491189398|Paddle|Weapon|
 |[paddlingpool](/paddlingpool.png)|-733625651|Paddling Pool|Fun|
+|[paintabletarget.reactive](/paintabletarget.reactive.png)|-1039234836|Paintable Reactive Target|Misc|
+|[paintballgun](/paintballgun.png)|-707792719|Paintball Gun|Weapon|
+|[paintballoveralls.suit](/paintballoveralls.suit.png)|-1014934560|Paintball Overalls|Attire|
 |[pants](/pants.png)|237239288|Pants|Attire|
 |[pants.shorts](/pants.shorts.png)|-1695367501|Shorts|Attire|
 |[paper](/paper.png)|-1779183908|Paper|Resources|
@@ -726,6 +751,7 @@
 |[piston2](/piston2.png)|1883981801|Medium Quality Pistons|Component|
 |[piston3](/piston3.png)|1883981800|High Quality Pistons|Component|
 |[pitchfork](/pitchfork.png)|1090916276|Pitchfork|Weapon|
+|[plank](/plank.png)|-952411326|Plank|Items|
 |[planter.large](/planter.large.png)|1581210395|Large Planter Box|Items|
 |[planter.small](/planter.small.png)|1903654061|Small Planter Box|Items|
 |[planter.triangle](/planter.triangle.png)|-280812482|Triangle Planter Box|Items|
@@ -737,6 +763,7 @@
 |[powered.water.purifier](/powered.water.purifier.png)|-365097295|Powered Water Purifier|Electrical|
 |[prisonerhood](/prisonerhood.png)|-892718768|Prisoner Hood|Attire|
 |[propanetank](/propanetank.png)|-1673693549|Empty Propane Tank|Component|
+|[ptboat](/ptboat.png)|1933140008|PT Boat|Items|
 |[ptz.cctv.camera](/ptz.cctv.camera.png)|140006625|PTZ CCTV Camera|Electrical|
 |[pumpkin](/pumpkin.png)|-567909622|Pumpkin|Food|
 |[pumpkinbasket](/pumpkinbasket.png)|1346158228|Pumpkin Basket|Misc|
@@ -790,7 +817,7 @@
 |[rope](/rope.png)|1414245522|Rope|Component|
 |[rose](/rose.png)|1414245519|Rose|Food|
 |[rowboat](/rowboat.png)|1878053256|Rowboat|Items|
-|[rug.bear](/rug.bear.png)|-1104881824|Rug Bear Skin|Items|
+|[rug.bear](/rug.bear.png)|-1104881824|Bear Skin Rug|Items|
 |[rug](/rug.png)|-1985799200|Rug|Items|
 |[rustige_egg_a](/rustige_egg_a.png)|-173268129|Rustigé Egg - Red|Misc|
 |[rustige_egg_b](/rustige_egg_b.png)|-173268132|Rustigé Egg - Blue|Misc|
@@ -799,6 +826,7 @@
 |[rustige_egg_e](/rustige_egg_e.png)|-173268125|Rustigé Egg - Green|Misc|
 |[rustige_egg_f](/rustige_egg_f.png)|-173268128|Rustigé Egg - White|Misc|
 |[rustige_egg_g](/rustige_egg_g.png)|-173268127|Rustigé Egg - Cerulean|Misc|
+|[sail](/sail.png)|405905095|Sail|Items|
 |[salvaged.bamboo.shelves](/salvaged.bamboo.shelves.png)|-2110553371|Bamboo Salvaged Shelves|Items|
 |[salvaged.cleaver](/salvaged.cleaver.png)|-1978999529|Salvaged Cleaver|Weapon|
 |[salvaged.sword](/salvaged.sword.png)|1326180354|Salvaged Sword|Weapon|
@@ -808,13 +836,15 @@
 |[scarecrow](/scarecrow.png)|177226991|Scarecrow|Items|
 |[scarecrow.suit](/scarecrow.suit.png)|273951840|Scarecrow Suit|Attire|
 |[scarecrowhead](/scarecrowhead.png)|809942731|Scarecrow Wrap|Attire|
-|[scientist.plushie](/scientist.plushie.png)|445662288|#scientist.plushie.name|Items|
+|[scientist.plushie](/scientist.plushie.png)|445662288|Scientist Plushie|Items|
 |[scientistsuit_heavy](/scientistsuit_heavy.png)|-1772746857|Heavy Scientist Suit|Attire|
 |[scrap](/scrap.png)|-932201673|Scrap|Resources|
-|[scrapframe.large](/scrapframe.large.png)|-1094453063|Scrap Frame large|Items|
-|[scrapframe.medium](/scrapframe.medium.png)|-1060567807|Scrap Frame Medium|Items|
-|[scrapframe.small](/scrapframe.small.png)|-498301781|Scrap Frame Small|Items|
-|[scrapframe.standing](/scrapframe.standing.png)|-1774190142|Scrap Frame Standing|Items|
+|[scrapframe.large](/scrapframe.large.png)|-1094453063|Shutter Frame large|Items|
+|[scrapframe.medium](/scrapframe.medium.png)|-1060567807|Shutter Frame Medium|Items|
+|[scrapframe.small](/scrapframe.small.png)|-498301781|Shutter Frame Small|Items|
+|[scrapframe.standing](/scrapframe.standing.png)|-1774190142|Shutter Frame Standing|Items|
+|[scrapframe.xl](/scrapframe.xl.png)|-1244287686|Shutter Frame XL|Items|
+|[scrapframe.xxl](/scrapframe.xxl.png)|-1211801774|Shutter Frame XXL|Items|
 |[scrapmirror.large](/scrapmirror.large.png)|-82758111|Scrap Mirror Large|Items|
 |[scrapmirror.medium](/scrapmirror.medium.png)|839738457|Scrap Mirror Medium|Items|
 |[scrapmirror.small](/scrapmirror.small.png)|-1050697733|Scrap Mirror Small|Items|
@@ -860,6 +890,12 @@
 |[shutter.wood.a](/shutter.wood.a.png)|-1023374709|Wood Shutters|Construction|
 |[sickle](/sickle.png)|-1368584029|Sickle|Misc|
 |[siegetower](/siegetower.png)|-1290278434|Siege Tower|Weapon|
+|[sign.artistcanvas.l](/sign.artistcanvas.l.png)|-946599114|Artist Canvas Standing|Items|
+|[sign.artistcanvas.m](/sign.artistcanvas.m.png)|-946599113|Artist Canvas Large|Items|
+|[sign.artistcanvas.s](/sign.artistcanvas.s.png)|-946599131|Artist Canvas Medium|Items|
+|[sign.artistcanvas.xl](/sign.artistcanvas.xl.png)|1562867678|Artist Canvas XL|Items|
+|[sign.artistcanvas.xs](/sign.artistcanvas.xs.png)|1609921845|Artist Canvas Small|Items|
+|[sign.artistcanvas.xxl](/sign.artistcanvas.xxl.png)|-816769770|Artist Canvas XXL|Items|
 |[sign.hanging.banner.large](/sign.hanging.banner.large.png)|23352662|Large Banner Hanging|Items|
 |[sign.hanging](/sign.hanging.png)|1205607945|Two Sided Hanging Sign|Items|
 |[sign.hanging.ornate](/sign.hanging.ornate.png)|-1647846966|Two Sided Ornate Hanging Sign|Items|
@@ -882,6 +918,7 @@
 |[sign.wooden.large](/sign.wooden.large.png)|1153652756|Large Wooden Sign|Items|
 |[sign.wooden.medium](/sign.wooden.medium.png)|-1819233322|Medium Wooden Sign|Items|
 |[sign.wooden.small](/sign.wooden.small.png)|-1138208076|Small Wooden Sign|Items|
+|[silly.horse.mask](/silly.horse.mask.png)|1849409072|Silly Horse Mask|Attire|
 |[single.shallow.wall.shelves](/single.shallow.wall.shelves.png)|-193519904|Single Shallow Wall Shelves|Items|
 |[skidoo](/skidoo.png)|-1056824343|Diver propulsion vehicle|Items|
 |[skull.human](/skull.human.png)|996293980|Human Skull|Resources|
@@ -905,8 +942,10 @@
 |[sled.xmas](/sled.xmas.png)|-135252633|Sled|Fun|
 |[sleepingbag](/sleepingbag.png)|-1754948969|Sleeping Bag|Items|
 |[small.oil.refinery](/small.oil.refinery.png)|-1293296287|Small Oil Refinery|Items|
+|[small_ramp](/small_ramp.png)|-158718378|Small Ramp|Items|
 |[smallbackpack](/smallbackpack.png)|2068884361|Small Backpack|Attire|
 |[smallcandles](/smallcandles.png)|-2058362263|Small Candle Set|Misc|
+|[smallengine](/smallengine.png)|-2115299615|Small Boat Engine|Items|
 |[smallwaterbottle](/smallwaterbottle.png)|-1039528932|Small Water Bottle|Food|
 |[smart.alarm](/smart.alarm.png)|-695978112|Smart Alarm|Electrical|
 |[smart.switch](/smart.switch.png)|988652725|Smart Switch|Electrical|
@@ -945,6 +984,7 @@
 |[spraycandecal](/spraycandecal.png)|-1366326648|Spray Can Decal|Tool|
 |[starballoon2025](/starballoon2025.png)|-1782127806|Star Balloon|Items|
 |[stash.small](/stash.small.png)|-369760990|Small Stash|Items|
+|[steeringwheel.boat](/steeringwheel.boat.png)|-1866909924|Steering Wheel|Items|
 |[sticks](/sticks.png)|642482233|Sticks|Component|
 |[stocking.large](/stocking.large.png)|-465682601|SUPER Stocking|Items|
 |[stocking.small](/stocking.small.png)|1668858301|Small Stocking|Items|
@@ -1098,6 +1138,7 @@
 |[white.berry](/white.berry.png)|854447607|White Berry|Food|
 |[whiteidtag](/whiteidtag.png)|22947882|White ID Tag|Resources|
 |[wicker.barrel](/wicker.barrel.png)|-526026171|Wicker Barrel|Items|
+|[window.paintable](/window.paintable.png)|738611016|Paintable Window|Construction|
 |[wiretool](/wiretool.png)|-144417939|Wire Tool|Electrical|
 |[wolfmeat.burned](/wolfmeat.burned.png)|1827479659|Burnt Wolf Meat|Food|
 |[wolfmeat.cooked](/wolfmeat.cooked.png)|813023040|Cooked Wolf Meat|Food|

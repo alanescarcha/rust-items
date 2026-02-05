@@ -7,6 +7,9 @@
 |![](/3module car.128.webp)|3module car|-831725027|3 Module Car|Misc|3 Module Car|
 |![](/4module car chassis.128.webp)|4module car chassis|385099196|4 Module Car Chassis|Misc|4 Module Car Chassis|
 |![](/4module car.128.webp)|4module car|-935322684|4 Module Car|Misc|4 Module Car|
+|![](/50cal.mounted.128.webp)|50cal.mounted|162882477|#50cal|Weapon|#50cal.desc|
+|![](/50cal.mounted.left.128.webp)|50cal.mounted.left|-1467876094|#50cal|Weapon|#50cal.desc|
+|![](/50cal.mounted.right.128.webp)|50cal.mounted.right|1248383659|#50cal|Weapon|#50cal.desc|
 |![](/abovegroundpool.128.webp)|abovegroundpool|1840570710|Above Ground Pool|Fun|A large wooden pool that can be filled with water.|
 |![](/abyss.barrel.horizontal.128.webp)|abyss.barrel.horizontal|-880494890|Abyss Horizontal Storage Tank|Items|Horizontal Abyss container taken from the depths of the ocean|
 |![](/abyss.barrel.vertical.128.webp)|abyss.barrel.vertical|-919882824|Abyss Vertical Storage Tank|Items|Vertical Abyss container taken from the depths of the ocean|
@@ -21,6 +24,7 @@
 |![](/ammo.grenadelauncher.smoke.128.webp)|ammo.grenadelauncher.smoke|915408809|40mm Smoke Grenade|Ammunition|Ammunition for a 40mm Grenade Launcher.|
 |![](/ammo.handmade.shell.128.webp)|ammo.handmade.shell|588596902|Handmade Shell|Ammunition|Shoddy ammo with multiple projectiles.|
 |![](/ammo.nailgun.nails.128.webp)|ammo.nailgun.nails|-2097376851|Nailgun Nails|Ammunition|Standard nailgun ammunition|
+|![](/ammo.paintball.128.webp)|ammo.paintball|385645417|Paintball|Ammunition|Ammo for a paintball gun.|
 |![](/ammo.pistol.fire.128.webp)|ammo.pistol.fire|51984655|Incendiary Pistol Bullet|Ammunition|Slower moving ammunition that deals fire damage. There's a small chance it will start a fire.|
 |![](/ammo.pistol.hv.128.webp)|ammo.pistol.hv|-1691396643|HV Pistol Ammo|Ammunition|This ammunition travels faster, resulting in less drop and slightly higher damage when fired over long distances.|
 |![](/ammo.pistol.128.webp)|ammo.pistol|785728077|Pistol Bullet|Ammunition|Ammunition for a Pistol. Loses velocity when fired over long distances resulting in slightly decreased damage.|
@@ -39,6 +43,7 @@
 |![](/ammo.shotgun.128.webp)|ammo.shotgun|-1685290200|12 Gauge Buckshot|Ammunition|Ammunition for a Shotgun.|
 |![](/ammo.shotgun.slug.128.webp)|ammo.shotgun.slug|-727717969|12 Gauge Slug|Ammunition|Single large projectile for a Shotgun.|
 |![](/ammo.snowballgun.128.webp)|ammo.snowballgun|550753330|Snowball Gun Ammo|Ammunition||
+|![](/anchor.128.webp)|anchor|829641693|Anchor|Items|A heavy anchor to stop your boat drifting.|
 |![](/antiradpills.128.webp)|antiradpills|-1432674913|Anti-Radiation Pills|Medical|Taking these pills will lower your radiation level. WARNING: May cause extreme dehydration.|
 |![](/apple.128.webp)|apple|1548091822|Apple|Food|An Apple. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/apple.spoiled.128.webp)|apple.spoiled|352130972|Rotten Apple|Food|A rotten apple. Eating it currently provides a tiny boost to health, hunger, and thirst.|
@@ -115,6 +120,8 @@
 |![](/blueidtag.128.webp)|blueidtag|1364514421|Blue ID Tag|Resources|Blue ID Tag|
 |![](/blueprintbase.128.webp)|blueprintbase|-996920608|Blueprint|Misc|Blueprint|
 |![](/blunderbuss.128.webp)|blunderbuss|-880412831|Blunderbuss|Weapon|A Shotgun with two barrels allowing two shots to be fired in quick succession before needing to reload.|
+|![](/boat.planner.128.webp)|boat.planner|-321247698|Boat Building Plan|Construction|A boat plan. You can use this to craft boats - right click when equipped for more options.|
+|![](/boatbuildingstation.128.webp)|boatbuildingstation|1993693904|Boat Building Station|Items|A deployable building station, creates a stable workspace on the water to build or edit your floating wooden refuge.|
 |![](/bone.armor.suit.128.webp)|bone.armor.suit|1746956556|Bone Armor|Attire|A primitive suit of armor made of bones, weak protection from damage and the elements but better than nothing.|
 |![](/bone.club.128.webp)|bone.club|1711033574|Bone Club|Weapon|A blunt weapon made from a femur. All around basic gathering tool.|
 |![](/bone.fragments.128.webp)|bone.fragments|1719978075|Bone Fragments|Resources|Extracted from animal carcass.  Used as a raw material to make bone weapons and armour.|
@@ -149,6 +156,8 @@
 |![](/can.tuna.128.webp)|can.tuna|-1941646328|Can of Tuna|Food|Chunked tuna found as loot. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/candycane.128.webp)|candycane|1121925526|Candy Cane|Food|A very old candy cane from 2014|
 |![](/candycaneclub.128.webp)|candycaneclub|1789825282|Candy Cane Club|Weapon|Smash some faces with this large piece of candy|
+|![](/cannon.128.webp)|cannon|-34498533|Cannon|Items|A heavy mountable cannon for your boat with a short fuse. Questionable accuracy but high damage.|
+|![](/cannonball.128.webp)|cannonball|-411735114|Cannonball|Ammunition|Round solid ammo for the cannon|
 |![](/captainslog.128.webp)|captainslog|1230691307|Captain's Log|Misc|A deteriorating piece of paper with information relating to the last moments of this vessel.|
 |![](/carburetor1.128.webp)|carburetor1|656371028|Low Quality Carburetor|Component|A low quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
 |![](/carburetor2.128.webp)|carburetor2|656371027|Medium Quality Carburetor|Component|A medium quality carburetor for a combustion engine. Mixes air and fuel to the proper ratio.|
@@ -209,6 +218,7 @@
 |![](/cocoknight.armor.helmet.128.webp)|cocoknight.armor.helmet|-582467439|Coconut Armor Helmet|Attire|A shoddy helmet made from coconut, provides some basic protection from melee and ranged attacks.|
 |![](/cocoknight.armor.pants.128.webp)|cocoknight.armor.pants|507284030|Coconut Armor Pants|Attire|A shoddy piece of leg armor made from coconut and plants, provides some basic protection from melee and ranged attacks.|
 |![](/cocoknight.armor.torso.128.webp)|cocoknight.armor.torso|1426097945|Coconut Armor Chestplate|Attire|A shoddy piece of body armor made from coconut and plants, provides some basic protection from melee and ranged attacks.|
+|![](/coconut.128.webp)|coconut|-24571537|Coconut|Food|A coconut. Consuming it restores hydration, and the flesh yields a modest amount of calories.|
 |![](/coffeecan.helmet.128.webp)|coffeecan.helmet|-803263829|Coffee Can Helmet|Attire|A Coffee Can Helmet. It provides a level of regional protection from inflicted damage.|
 |![](/coffin.storage.128.webp)|coffin.storage|573676040|Coffin|Misc|An old wooden coffin, can store up to 42 items|
 |![](/command.block.128.webp)|command.block|-1247485104|Command Block|Electrical|A block that runs commands|
@@ -256,6 +266,7 @@
 |![](/divertorch.128.webp)|divertorch|1846605708|Abyss Torch|Tool|Illuminate the underwater depths with this durable and waterproof diving torch|
 |![](/diving.fins.128.webp)|diving.fins|296519935|Diving Fins|Attire|Diving Fins. Significantly boosts your speed underwater but greatly reduces mobility on land.|
 |![](/diving.mask.128.webp)|diving.mask|-113413047|Diving Mask|Attire|A diving mask that provides clear vision under water at the cost of reduced peripheral vision.|
+|![](/diving.tank.double.128.webp)|diving.tank.double|-1559420426|Double Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench. Holds 80% more Oxygen than a standard diving tank|
 |![](/diving.tank.128.webp)|diving.tank|-2022172587|Diving Tank|Attire|An oxygen tank that enables breathing under water for a period of time. Can be refilled at a workbench or repair bench.|
 |![](/diving.wetsuit.128.webp)|diving.wetsuit|-1101924344|Wetsuit|Attire|A Wetsuit providing protection from frigid waters.|
 |![](/documents.128.webp)|documents|-451310088|Documents|Tool|A stack of technical looking documents.|
@@ -265,6 +276,7 @@
 |![](/door.double.hinged.metal.128.webp)|door.double.hinged.metal|1390353317|Sheet Metal Double Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/door.double.hinged.toptier.128.webp)|door.double.hinged.toptier|1221063409|Armored Double Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
 |![](/door.double.hinged.wood.128.webp)|door.double.hinged.wood|-1336109173|Wood Double Door|Construction|A Cheap door to secure your base. Its vulnerability to fire and weak explosive resistance makes the door a temporary solution to securing your base. Due to its flaws you should look at upgrading to a higher tier door such as Sheet Metal.The Wooden Door can take two kinds of locks the basic Key Lock and the Code Lock. To pick up the door, remove any locks and open, hold down the E (USE) key and select 'Pickup'.|
+|![](/door.hinged.boat.wood.128.webp)|door.hinged.boat.wood|-1063073030|Wooden Boat Door|Construction|Secure your boat with this wooden door|
 |![](/door.hinged.industrial.a.128.webp)|door.hinged.industrial.a|818733919|Industrial Door|Construction|A red industrial door with a window.|
 |![](/door.hinged.metal.128.webp)|door.hinged.metal|-2067472972|Sheet Metal Door|Construction|Medium strength door, vulnerable to explosives.|
 |![](/door.hinged.toptier.128.webp)|door.hinged.toptier|1353298668|Armored Door|Construction|Extremely strong door with a hatch to see and shoot out of.|
@@ -277,6 +289,7 @@
 |![](/dropbox.128.webp)|dropbox|-1519126340|Drop Box|Items|This item can be deployed on walls so that players can input items from the exterior of the building for safe keeping. You can only access the submitted contents of the Drop Box from the rear.|
 |![](/drumkit.128.webp)|drumkit|-1330640246|Junkyard Drum Kit|Fun|An array of pots, pans and buckets that passes as a serviceable Drum Kit. Three cymbals, some Tom Drums and a Kick Drum means you can easily lay down a beat.|
 |![](/ducttape.128.webp)|ducttape|1401987718|Duct Tape|Component|A versatile adhesive tape reinforced with cloth.|
+|![](/easel.128.webp)|easel|-1779203452|Portable Easel|Items|A portable easel for painting plein air!|
 |![](/easter.bronzeegg.128.webp)|easter.bronzeegg|844440409|Bronze Egg|Misc|A Bronze Egg. Open for a surprise or collect 10 to upgrade to a silver egg.|
 |![](/easter.goldegg.128.webp)|easter.goldegg|-1002156085|Gold Egg|Misc|A Gold Egg. Containing the best easter loot.|
 |![](/easter.paintedeggs.128.webp)|easter.paintedeggs|-126305173|Painted Egg|Misc|Some simple painted eggs. Collect 10 to upgrade to a bronze egg|
@@ -425,10 +438,12 @@
 |![](/gingerbreadsuit.128.webp)|gingerbreadsuit|-558880549|Gingerbread Suit|Attire|A suit made of gingerbread, slightly crunchy.|
 |![](/gloweyes.128.webp)|gloweyes|-690276911|Glowing Eyes|Attire|glowing eyes|
 |![](/glue.128.webp)|glue|-1899491405|Glue|Component|A strong adhesive.|
-|![](/goldframe.large.128.webp)|goldframe.large|-996235148|Gold Frame large|Items|A large gold frame|
-|![](/goldframe.medium.128.webp)|goldframe.medium|-1901993050|Gold Frame Medium|Items|A medium gold frame|
-|![](/goldframe.small.128.webp)|goldframe.small|-1836526520|Gold Frame Small|Items|A small gold frame|
-|![](/goldframe.standing.128.webp)|goldframe.standing|-1528767189|Gold Frame Standing|Items|A standing gold frame|
+|![](/goldframe.large.128.webp)|goldframe.large|-996235148|Ornate Frame large|Items|A large ornate frame|
+|![](/goldframe.medium.128.webp)|goldframe.medium|-1901993050|Ornate Frame Medium|Items|A medium ornate frame|
+|![](/goldframe.small.128.webp)|goldframe.small|-1836526520|Ornate Frame Small|Items|A small ornate frame|
+|![](/goldframe.standing.128.webp)|goldframe.standing|-1528767189|Ornate Frame Standing|Items|A standing ornate frame|
+|![](/goldframe.xl.128.webp)|goldframe.xl|-1430299277|Ornate Frame XL|Items|An extra large ornate frame|
+|![](/goldframe.xxl.128.webp)|goldframe.xxl|-1322332389|Ornate Frame XXL|Items|An extra extra large ornate frame|
 |![](/goldmirror.large.128.webp)|goldmirror.large|1365234594|Gold Mirror large|Items|A large gold mirror|
 |![](/goldmirror.medium.128.webp)|goldmirror.medium|-1804515496|Gold Mirror Medium|Items|A medium gold mirror|
 |![](/goldmirror.small.128.webp)|goldmirror.small|-1444650226|Gold Mirror Small|Items|A small gold mirror|
@@ -477,6 +492,7 @@
 |![](/hat.cap.128.webp)|hat.cap|-1022661119|Baseball Cap|Attire|Simple hat for your head. Offers basic protection from damage and the cold.|
 |![](/hat.dragonmask.128.webp)|hat.dragonmask|-22883916|Dragon Mask|Attire|A special dragon mask to celebrate Chinese New Year|
 |![](/hat.gas.mask.128.webp)|hat.gas.mask|1659114910|Gas Mask|Attire|A Gas Mask|
+|![](/hat.horsemask.128.webp)|hat.horsemask|-418359052|Horse Mask|Attire|A Beautifully crafted red and gold Horse mask to celebrate the 2026 Lunar New Year. This item replaces the wolf headdress.|
 |![](/hat.miner.128.webp)|hat.miner|-1539025626|Miners Hat|Attire|A leather cap with a flashlight attached. It uses Low Grade Fuel and can be activated from the inventory.|
 |![](/hat.oxmask.128.webp)|hat.oxmask|1315082560|Ox Mask|Attire|An Ox mask to celebrate the 2021 Lunar New Year.|
 |![](/hat.rabbitmask.128.webp)|hat.rabbitmask|-986782031|Rabbit Mask|Attire|A Beautifully crafted Rabbit mask to celebrate the 2023 Lunar New Year|
@@ -499,6 +515,7 @@
 |![](/hazmatsuit.spacesuit.128.webp)|hazmatsuit.spacesuit|-560304835|Space Suit|Attire|A spacesuit built for harsh conditions.|
 |![](/hazmatsuit_scientist.128.webp)|hazmatsuit_scientist|-253079493|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_arctic.128.webp)|hazmatsuit_scientist_arctic|1107575710|Arctic Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
+|![](/hazmatsuit_scientist_naval.128.webp)|hazmatsuit_scientist_naval|-1937799374|Naval Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_nvgm.128.webp)|hazmatsuit_scientist_nvgm|86840834|NVGM Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuit_scientist_peacekeeper.128.webp)|hazmatsuit_scientist_peacekeeper|-1958316066|Scientist Suit|Attire|A hazmat suit made from radiation resistant rubber.|
 |![](/hazmatsuittwitch.128.webp)|hazmatsuittwitch|468313189|Twitch Rivals Hazmat Suit|Attire|A purple hazmat suit made from radiation resistant rubber.|
@@ -511,7 +528,7 @@
 |![](/heavy.plate.helmet.128.webp)|heavy.plate.helmet|1181207482|Heavy Plate Helmet|Attire|Offers superior protection at the cost of reduced vision and movement speed.|
 |![](/heavy.plate.jacket.128.webp)|heavy.plate.jacket|-1102429027|Heavy Plate Jacket|Attire|Offers superior protection at the cost of aiming down sights and reduced movement speed.|
 |![](/heavy.plate.pants.128.webp)|heavy.plate.pants|-1778159885|Heavy Plate Pants|Attire|Offers superior protection at the cost of reduced movement speed.|
-|![](/heavy.scientist.plushie.128.webp)|heavy.scientist.plushie|146221721|#heavy.scientist.plushie.name|Items|#heavy.scientist.plushie.desc|
+|![](/heavy.scientist.plushie.128.webp)|heavy.scientist.plushie|146221721|Heavy Scientist Plushie|Items|Heavy Scientist Plushie|
 |![](/heavyscientistyoutooz.128.webp)|heavyscientistyoutooz|-722629980|Heavy Scientist Youtooz|Items|Heavy Scientist Youtooz|
 |![](/hitchtroughcombo.128.webp)|hitchtroughcombo|1160881421|Hitch & Trough|Items|A Hitching post and Trough. Dismounting your horses here will keep them healthy and fed as long as it is kept stocked with food.|
 |![](/hmlmg.128.webp)|hmlmg|-1214542497|HMLMG|Weapon|A hand made belt-fed light machine gun with high damage, high rate of fire, low accuracy during short bursts.|
@@ -521,6 +538,7 @@
 |![](/honeycomb.128.webp)|honeycomb|-1513203236|Honeycomb|Food|Building blocks of a hive, taken from a natural beehive. Can be cooked in a furnace to guarantee honey, or extracted for honey and a small chance of a nucleus.|
 |![](/hoodie.128.webp)|hoodie|1751045826|Hoodie|Attire|A hoodie.|
 |![](/hopper.128.webp)|hopper|1428574144|Hopper|Electrical|Will suck up any dropped items in it's radius while powered|
+|![](/horse.armor.lny26.128.webp)|horse.armor.lny26|-2068194497|Lunar New Year Horse Armor|Attire|A full body Lunar New Year themed armor for a horse. Provides strong protection for you and your steed, at the cost of greatly reduced movement speed.|
 |![](/horse.armor.roadsign.128.webp)|horse.armor.roadsign|60528587|Roadsign Horse Armor|Attire|A full body armor for a horse. Provides strong protection for you and your steed, at the cost of greatly reduced movement speed.|
 |![](/horse.armor.wood.128.webp)|horse.armor.wood|1659447559|Wooden Horse Armor|Attire|A full body armor for a horse made of wood. Provides moderate protection for you and your steed, but with a reduction in movement speed.|
 |![](/horse.costume.128.webp)|horse.costume|1420547167|Horse Costume|Attire|An inflatable horse costume. Acting as a replacement for wooden pants, you can equip this item to look as silly as possible.|
@@ -585,6 +603,7 @@
 |![](/krieg.storage.horizontal.128.webp)|krieg.storage.horizontal|652793345|Krieg Storage Crates|Items|Military-grade crates designed for efficient storage and durability. A staple of any well-supplied outpost.|
 |![](/krieg.storage.vertical.128.webp)|krieg.storage.vertical|1305765685|Krieg Storage Barrel|Items|Industrial barrels repurposed for the front lines. Sturdy, disciplined, and unmistakably Krieg.|
 |![](/kriegbackpack.128.webp)|kriegbackpack|-874650016|Krieg Large Backpack|Attire|Carry your essentials in a rugged military pack, built for endurance and practicality.|
+|![](/ladder.wooden.boat.128.webp)|ladder.wooden.boat|255305250|Wooden Boat Ladder|Construction|A ladder will help you climb walls on any boat.|
 |![](/ladder.wooden.wall.128.webp)|ladder.wooden.wall|-316250604|Wooden Ladder|Construction|A ladder will help you climb walls in any base.|
 |![](/lantern.128.webp)|lantern|1658229558|Lantern|Items|A Lantern. Place it where you need light, requires low grade fuel to work.|
 |![](/largebackpack.128.webp)|largebackpack|-907422733|Large Backpack|Attire|A larger military backpack that can hold items inside it|
@@ -599,6 +618,8 @@
 |![](/legacy.shelter.wood.128.webp)|legacy.shelter.wood|607400343|Legacy Wood Shelter|Construction|The classic s*** shack. A great starter base for any fresh spawn. You can only have one shelter deployed at anytime.|
 |![](/legacyfurnace.128.webp)|legacyfurnace|-1310391395|Legacy Furnace|Items|Legacy Furnace|
 |![](/lightup.large.128.webp)|lightup.large|242421166|Light-Up Frame Large|Items|A large light up frame|
+|![](/lightup.xl.128.webp)|lightup.xl|1801656689|Light-Up Frame XL|Items|An extra large light-up frame|
+|![](/lightup.xxl.128.webp)|lightup.xxl|1447138977|Light-Up Frame XXL|Items|An extra extra large light up frame|
 |![](/lightupframe.medium.128.webp)|lightupframe.medium|-1294739579|Light-Up Frame Medium|Items|A medium Light-up frame|
 |![](/lightupframe.small.128.webp)|lightupframe.small|1691223771|Light-Up Frame Small|Items|A small light-up frame|
 |![](/lightupframe.standing.128.webp)|lightupframe.standing|1950013766|Light-Up Frame Standing|Items|A standing light-up frame|
@@ -655,7 +676,7 @@
 |![](/mini fridge.128.webp)|mini fridge|1174484438|Mini Fridge|Electrical|Ideal for preserving food and keeping items cool.|
 |![](/minicopter.128.webp)|minicopter|-1334255764|Minicopter|Misc|Minicopter|
 |![](/minicrossbow.128.webp)|minicrossbow|-482348853|Mini Crossbow|Weapon|A very accurate ranged weapon with a rotating barrel.|
-|![](/minigun.128.webp)|minigun|935606207|Minigun|Weapon|A military issue belt-fed machine gun with that must be spun up to fire. Fires rapidly once spun up at the expense of movement speed.|
+|![](/minigun.128.webp)|minigun|935606207|Minigun|Weapon|A military issue belt-fed machine gun that must be spun up to fire. Fires rapidly at the expense of movement speed.|
 |![](/minigunammopack.128.webp)|minigunammopack|355877490|Minigun Ammo Pack|Attire|A backpack designed to store ammunition for a minigun.|
 |![](/minihelicopter.repair.128.webp)|minihelicopter.repair|1426574435|Minicopter|Misc||
 |![](/mining.pumpjack.128.webp)|mining.pumpjack|-1130709577|Pump Jack|Construction|Extracts oil from the ground. Use a Survey Charge to determine the amount of oil available for extraction in any given area.|
@@ -670,6 +691,7 @@
 |![](/motorbike_sidecar.128.webp)|motorbike_sidecar|1869224826|Motorbike With Sidecar|Misc|A motorbike with sidecar.|
 |![](/movembermoustache.128.webp)|movembermoustache|-2047081330|Movember Moustache|Attire|A magnificent moustache (it acts as a hairy bandana) - all proceeds go to Movember, a charity promoting men's health awareness,|
 |![](/movembermoustachecard.128.webp)|movembermoustachecard|3380160|Card Movember Moustache|Attire|A fake moustache for Movember|
+|![](/mrspice.can.128.webp)|mrspice.can|-648077743|Mr Spice Can|Food|A delicious and refreshing beverage, with a delightful spicy undertone.|
 |![](/multiplegrenadelauncher.128.webp)|multiplegrenadelauncher|-1123473824|Multiple Grenade Launcher|Weapon|A 40MM six barrel, semi automatic grenade launcher|
 |![](/mummymask.128.webp)|mummymask|809689733|Mummy Mask|Attire|A classic halloween costume mask which provides decent protection.|
 |![](/mushroom.128.webp)|mushroom|-1962971928|Mushroom|Food|A Mushroom found on the ground. Eating it provides a small boost to health, hunger, and thirst.|
@@ -687,6 +709,9 @@
 |![](/outbreak.sprayer.128.webp)|outbreak.sprayer|1621942085|Outbreak Sprayer|Tool|An outbreak sprayer used by scientists|
 |![](/paddle.128.webp)|paddle|1491189398|Paddle|Weapon|A versatile melee weapon that can also be used to paddle a kayak.|
 |![](/paddlingpool.128.webp)|paddlingpool|-733625651|Paddling Pool|Fun|A small inflatable pool that you can fill up with water.|
+|![](/paintabletarget.reactive.128.webp)|paintabletarget.reactive|-1039234836|Paintable Reactive Target|Misc|A reactive target practice in which you can paint whatever you want|
+|![](/paintballgun.128.webp)|paintballgun|-707792719|Paintball Gun|Weapon|An air gun that uses compressed gas to fire and make targets works of art.|
+|![](/paintballoveralls.suit.128.webp)|paintballoveralls.suit|-1014934560|Paintball Overalls|Attire|A set of paintball overalls.|
 |![](/pants.128.webp)|pants|237239288|Pants|Attire|A pair of pants, highly capable undergarment for your legs. Great all round protection from damage and the elements.|
 |![](/pants.shorts.128.webp)|pants.shorts|-1695367501|Shorts|Attire|Trusty pair of shorts, may provide a breeze in undesired places. Worse than their full length counterparts with only basic protection from damage and the elements.|
 |![](/paper.128.webp)|paper|-1779183908|Paper|Resources|Paper, a ingredient for Building plan and Note.|
@@ -726,6 +751,7 @@
 |![](/piston2.128.webp)|piston2|1883981801|Medium Quality Pistons|Component|Medium quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.|
 |![](/piston3.128.webp)|piston3|1883981800|High Quality Pistons|Component|High quality pistons for a combustion engine. Pistons convert expanding combustion gases into the motion that turns a crankshaft.|
 |![](/pitchfork.128.webp)|pitchfork|1090916276|Pitchfork|Weapon|A 3 pronged pitchfork. Extremely easy to hit targets with.|
+|![](/plank.128.webp)|plank|-952411326|Plank|Items|Crude boarding plank thrown together from ruined floorboards, watch out for splinters.|
 |![](/planter.large.128.webp)|planter.large|1581210395|Large Planter Box|Items|A large planter with enough room to plant 9 seeds.|
 |![](/planter.small.128.webp)|planter.small|1903654061|Small Planter Box|Items|A small planter with enough room to plant 3 seeds.|
 |![](/planter.triangle.128.webp)|planter.triangle|-280812482|Triangle Planter Box|Items|A triangle planter with enough room to plant 4 seeds.|
@@ -737,6 +763,7 @@
 |![](/powered.water.purifier.128.webp)|powered.water.purifier|-365097295|Powered Water Purifier|Electrical|A device that converts salt water to fresh water while powered.|
 |![](/prisonerhood.128.webp)|prisonerhood|-892718768|Prisoner Hood|Attire|A hood for prisoners, restricts vision.|
 |![](/propanetank.128.webp)|propanetank|-1673693549|Empty Propane Tank|Component|Strong metal object.|
+|![](/ptboat.128.webp)|ptboat|1933140008|PT Boat|Items||
 |![](/ptz.cctv.camera.128.webp)|ptz.cctv.camera|140006625|PTZ CCTV Camera|Electrical|A CCTV Camera system can be used for realtime surveillance and security when paired with the Computer Station. This camera has pan, tilt, and zoom capability.|
 |![](/pumpkin.128.webp)|pumpkin|-567909622|Pumpkin|Food|An edible vegetable that can also be worn as a hat. Eating it provides a small boost to health, hunger, and thirst.|
 |![](/pumpkinbasket.128.webp)|pumpkinbasket|1346158228|Pumpkin Basket|Misc|A pumpkin basket to help you collect candy much faster during Trick or Treat events with left click. Use right click to throw candy|
@@ -790,7 +817,7 @@
 |![](/rope.128.webp)|rope|1414245522|Rope|Component|A Length of Rope.|
 |![](/rose.128.webp)|rose|1414245519|Rose|Food|Romantic AF.|
 |![](/rowboat.128.webp)|rowboat|1878053256|Rowboat|Items||
-|![](/rug.bear.128.webp)|rug.bear|-1104881824|Rug Bear Skin|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
+|![](/rug.bear.128.webp)|rug.bear|-1104881824|Bear Skin Rug|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
 |![](/rug.128.webp)|rug|-1985799200|Rug|Items|A decorative rug that can be placed on walls, floors, and ceilings. Provides comfort when in close proximity.|
 |![](/rustige_egg_a.128.webp)|rustige_egg_a|-173268129|Rustigé Egg - Red|Misc|An exquisite hand crafted gold and diamond egg. When opened, a very special melody can be heard as you observe an intricate representation of your favorite monument.|
 |![](/rustige_egg_b.128.webp)|rustige_egg_b|-173268132|Rustigé Egg - Blue|Misc|A beautiful hand crafted white gold and sapphire encrusted egg, with a miniature monument contained inside.|
@@ -799,6 +826,7 @@
 |![](/rustige_egg_e.128.webp)|rustige_egg_e|-173268125|Rustigé Egg - Green|Misc|A beautiful hand crafted gold and green egg, with a miniature traincart contained inside.|
 |![](/rustige_egg_f.128.webp)|rustige_egg_f|-173268128|Rustigé Egg - White|Misc|A beautiful hand crafted gold and white egg, with a miniature underwater lab scene contained inside.|
 |![](/rustige_egg_g.128.webp)|rustige_egg_g|-173268127|Rustigé Egg - Cerulean|Misc|A beautiful hand crafted cerulean and gold egg, with a miniature cargo ship scene contained inside.|
+|![](/sail.128.webp)|sail|405905095|Sail|Items|A slow but effective boat sail, made from scraps of fabric hastily stitched together. More sails will generate more speed.|
 |![](/salvaged.bamboo.shelves.128.webp)|salvaged.bamboo.shelves|-2110553371|Bamboo Salvaged Shelves|Items|Bamboo shelves for item stacking|
 |![](/salvaged.cleaver.128.webp)|salvaged.cleaver|-1978999529|Salvaged Cleaver|Weapon|A powerful 2-handed melee weapon with high damage.|
 |![](/salvaged.sword.128.webp)|salvaged.sword|1326180354|Salvaged Sword|Weapon|A powerful melee weapon made from a filed-down wrench. Great durability, good damage.|
@@ -808,13 +836,15 @@
 |![](/scarecrow.128.webp)|scarecrow|177226991|Scarecrow|Items|Get into the halloween spirit with this decorative deployable item.|
 |![](/scarecrow.suit.128.webp)|scarecrow.suit|273951840|Scarecrow Suit|Attire|A spooky scarecrow suit|
 |![](/scarecrowhead.128.webp)|scarecrowhead|809942731|Scarecrow Wrap|Attire|A creepy burlap scarecrow hat|
-|![](/scientist.plushie.128.webp)|scientist.plushie|445662288|#scientist.plushie.name|Items|#scientist.plushie.desc|
+|![](/scientist.plushie.128.webp)|scientist.plushie|445662288|Scientist Plushie|Items|Scientist Plushie|
 |![](/scientistsuit_heavy.128.webp)|scientistsuit_heavy|-1772746857|Heavy Scientist Suit|Attire|A heavy hazmat suit made from radiation resistant rubber.|
 |![](/scrap.128.webp)|scrap|-932201673|Scrap|Resources|Scrap can be used in a Research table and Workbench to unlock and research items. Often used as a currency throughout the world.|
-|![](/scrapframe.large.128.webp)|scrapframe.large|-1094453063|Scrap Frame large|Items|A large scrap frame|
-|![](/scrapframe.medium.128.webp)|scrapframe.medium|-1060567807|Scrap Frame Medium|Items|A medium scrap frame|
-|![](/scrapframe.small.128.webp)|scrapframe.small|-498301781|Scrap Frame Small|Items|A small scrap frame|
-|![](/scrapframe.standing.128.webp)|scrapframe.standing|-1774190142|Scrap Frame Standing|Items|A standing scrap frame|
+|![](/scrapframe.large.128.webp)|scrapframe.large|-1094453063|Shutter Frame large|Items|A large shutter frame|
+|![](/scrapframe.medium.128.webp)|scrapframe.medium|-1060567807|Shutter Frame Medium|Items|A medium shutter frame|
+|![](/scrapframe.small.128.webp)|scrapframe.small|-498301781|Shutter Frame Small|Items|A small shutter frame|
+|![](/scrapframe.standing.128.webp)|scrapframe.standing|-1774190142|Shutter Frame Standing|Items|A standing shutter frame|
+|![](/scrapframe.xl.128.webp)|scrapframe.xl|-1244287686|Shutter Frame XL|Items|An extra large shutter frame|
+|![](/scrapframe.xxl.128.webp)|scrapframe.xxl|-1211801774|Shutter Frame XXL|Items|An extra extra large shutter frame|
 |![](/scrapmirror.large.128.webp)|scrapmirror.large|-82758111|Scrap Mirror Large|Items|A large scrap mirror|
 |![](/scrapmirror.medium.128.webp)|scrapmirror.medium|839738457|Scrap Mirror Medium|Items|A medium scrap mirror|
 |![](/scrapmirror.small.128.webp)|scrapmirror.small|-1050697733|Scrap Mirror Small|Items|A small scrap mirror|
@@ -860,6 +890,12 @@
 |![](/shutter.wood.a.128.webp)|shutter.wood.a|-1023374709|Wood Shutters|Construction|Wood shutters that you can open and close.|
 |![](/sickle.128.webp)|sickle|-1368584029|Sickle|Misc|A very sharp curved cutting weapon. While its traditional role was to cut grass, this tool is also extremely versatile at cutting throats, perhaps trees, too.|
 |![](/siegetower.128.webp)|siegetower|-1290278434|Siege Tower|Weapon|A rolling siege tower, providing cover and access to enemy bases. Can be locked with your own door. Can be towed by horses.|
+|![](/sign.artistcanvas.l.128.webp)|sign.artistcanvas.l|-946599114|Artist Canvas Standing|Items|A standing canvas for seamless murals|
+|![](/sign.artistcanvas.m.128.webp)|sign.artistcanvas.m|-946599113|Artist Canvas Large|Items|A large sized canvas for seamless murals|
+|![](/sign.artistcanvas.s.128.webp)|sign.artistcanvas.s|-946599131|Artist Canvas Medium|Items|A medium canvas for seamless murals|
+|![](/sign.artistcanvas.xl.128.webp)|sign.artistcanvas.xl|1562867678|Artist Canvas XL|Items|An extra large canvas for seamless murals|
+|![](/sign.artistcanvas.xs.128.webp)|sign.artistcanvas.xs|1609921845|Artist Canvas Small|Items|A small canvas for seamless murals|
+|![](/sign.artistcanvas.xxl.128.webp)|sign.artistcanvas.xxl|-816769770|Artist Canvas XXL|Items|An extra, extra large canvas for seamless murals|
 |![](/sign.hanging.banner.large.128.webp)|sign.hanging.banner.large|23352662|Large Banner Hanging|Items|A large banner hanging on a wall.|
 |![](/sign.hanging.128.webp)|sign.hanging|1205607945|Two Sided Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
 |![](/sign.hanging.ornate.128.webp)|sign.hanging.ornate|-1647846966|Two Sided Ornate Hanging Sign|Items|A double sided hanging sign, to attach to buildings.|
@@ -882,6 +918,7 @@
 |![](/sign.wooden.large.128.webp)|sign.wooden.large|1153652756|Large Wooden Sign|Items|A 3-meter by 1.5-meter wooden sign that you can write on.|
 |![](/sign.wooden.medium.128.webp)|sign.wooden.medium|-1819233322|Medium Wooden Sign|Items|A 2-meter by 1-meter wooden sign that you can write on.|
 |![](/sign.wooden.small.128.webp)|sign.wooden.small|-1138208076|Small Wooden Sign|Items|A 1-meter by 0.5-meter wooden sign that you can write on.|
+|![](/silly.horse.mask.128.webp)|silly.horse.mask|1849409072|Silly Horse Mask|Attire|A silly rubber horse mask to celebrate Lunar New Year 2026. Comes in three varieties.|
 |![](/single.shallow.wall.shelves.128.webp)|single.shallow.wall.shelves|-193519904|Single Shallow Wall Shelves|Items|Single Shallow Wall Shelves|
 |![](/skidoo.128.webp)|skidoo|-1056824343|Diver propulsion vehicle|Items|A personal underwater propulsion device|
 |![](/skull.human.128.webp)|skull.human|996293980|Human Skull|Resources|A human skull.|
@@ -905,8 +942,10 @@
 |![](/sled.xmas.128.webp)|sled.xmas|-135252633|Sled|Fun|A wooden sled to quickly travel down snowy hills.|
 |![](/sleepingbag.128.webp)|sleepingbag|-1754948969|Sleeping Bag|Items|A sleeping bag. Placing this will give you or an assigned player a place to respawn, with a long cooldown.|
 |![](/small.oil.refinery.128.webp)|small.oil.refinery|-1293296287|Small Oil Refinery|Items|A small refinery which can produce Low Grade Fuel from Crude Oil.|
+|![](/small_ramp.128.webp)|small_ramp|-158718378|Small Ramp|Items|Deployable wooden ramp cobbled together from recycled doors, probably sturdy enough. Unfolds for boarding enemy vessels.|
 |![](/smallbackpack.128.webp)|smallbackpack|2068884361|Small Backpack|Attire|A small, makeshift backpack|
 |![](/smallcandles.128.webp)|smallcandles|-2058362263|Small Candle Set|Misc|Small Candles|
+|![](/smallengine.128.webp)|smallengine|-2115299615|Small Boat Engine|Items|A punchy boat engine made from scavenged parts, not good for the environment. More engines means more speed.|
 |![](/smallwaterbottle.128.webp)|smallwaterbottle|-1039528932|Small Water Bottle|Food|A Small Water Bottle. Left click to drink, right click to fill from water sources, or to pour out.|
 |![](/smart.alarm.128.webp)|smart.alarm|-695978112|Smart Alarm|Electrical|Sends a notifications to your phone when powered on.|
 |![](/smart.switch.128.webp)|smart.switch|988652725|Smart Switch|Electrical|A smart electric switch.|
@@ -945,6 +984,7 @@
 |![](/spraycandecal.128.webp)|spraycandecal|-1366326648|Spray Can Decal|Tool||
 |![](/starballoon2025.128.webp)|starballoon2025|-1782127806|Star Balloon|Items|A star-shaped balloon to use as decoration and for you to celebrate. You can write on it.|
 |![](/stash.small.128.webp)|stash.small|-369760990|Small Stash|Items|A hidden, burried stash to keep your items safe. After placing, return to the stash and aim at the ground where you hid it and it will reveal itself.|
+|![](/steeringwheel.boat.128.webp)|steeringwheel.boat|-1866909924|Steering Wheel|Items|A lockable steering wheel for your modular boat with some suspiciously shaped handles.|
 |![](/sticks.128.webp)|sticks|642482233|Sticks|Component|Some long, some short.|
 |![](/stocking.large.128.webp)|stocking.large|-465682601|SUPER Stocking|Items|A SUPER Stocking. Hang it by a fire and you might just get an awesome gift!|
 |![](/stocking.small.128.webp)|stocking.small|1668858301|Small Stocking|Items|A small stocking. Hang it by a fire and you might just get a gift! Collect 6 to upgrade to a SUPER Stocking.|
@@ -1098,6 +1138,7 @@
 |![](/white.berry.128.webp)|white.berry|854447607|White Berry|Food|A white berry. Can be eaten or used in mixing table recipes to create teas.|
 |![](/whiteidtag.128.webp)|whiteidtag|22947882|White ID Tag|Resources|White ID Tag|
 |![](/wicker.barrel.128.webp)|wicker.barrel|-526026171|Wicker Barrel|Items|Keep your things in this wicker barrel. Stores up to 48 items. Cannot be locked.|
+|![](/window.paintable.128.webp)|window.paintable|738611016|Paintable Window|Construction|A window with paintable glass|
 |![](/wiretool.128.webp)|wiretool|-144417939|Wire Tool|Electrical|A tool used to make connections between electrical objects. Aim at an object and click on an input/output handle, then click on another object's input/output handle to form a connection. Holding right mouse will clear or cancel a connection.|
 |![](/wolfmeat.burned.128.webp)|wolfmeat.burned|1827479659|Burnt Wolf Meat|Food|Spoiled Wolf Meat. Consuming will damage your health.|
 |![](/wolfmeat.cooked.128.webp)|wolfmeat.cooked|813023040|Cooked Wolf Meat|Food|Cooked Wolf Meat. Eating it will restore some health, hunger, and thirst.|
